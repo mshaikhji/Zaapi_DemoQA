@@ -1,5 +1,6 @@
 # Zaapi_DemoQA
 UI and API Tests written in Cypress with JavaScript
+![image](https://drive.google.com/uc?export=view&id=1W-UynO6mgezooU4_icEfxcaVJWYguRdp)
 
 ## Page objects
 - Page Objects and Locators in cypress/support/pageObjects : Contains all logic for actions to be performed on each page.
@@ -17,7 +18,6 @@ UI and API Tests written in Cypress with JavaScript
 
 
 ## Setup
-![image](https://drive.google.com/uc?export=view&id=1W-UynO6mgezooU4_icEfxcaVJWYguRdp)
 ```
 - clone this repo to a local directory
 - git clone https://github.com/mshaikhji/Zaapi_DemoQA.git
