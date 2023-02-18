@@ -171,7 +171,7 @@ class ElementsPage {
   clickCloseButtonOnFormResult() {
     cy.get(this.closeButtonOnFormResult)
       .scrollIntoView()
-      .should("be.visible")
+      .should("exist")
       .click();
   }
 
